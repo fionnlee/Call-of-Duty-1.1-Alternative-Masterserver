@@ -8,5 +8,5 @@ This is a Call of Duty 1 alternative master server made by using Python 3.
 3. Run server. `python3 master.py`
 
 ## server.cfg
-```set sv_masterX "ip:20510"```
+```set sv_masterX "ip:20510"```\n
 [+] Example `set sv_master2 "1.1.1.1:20510"`
